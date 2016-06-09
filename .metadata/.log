@@ -1,0 +1,1878 @@
+!SESSION 2016-06-09 07:40:50.396 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data E:\workspace\masterspringmvc.com -product org.eclipse.epp.package.jee.product
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:41:22.859
+!MESSAGE properties loading 'RemoteSystemsTempFiles'
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-06-09 07:41:22.904
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\OwenWilliam'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:41:22.947
+!MESSAGE properties loading 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:48:33.715
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY org.tigris.subversion.subclipse.core 4 0 2016-06-09 07:48:33.800
+!MESSAGE Could not auto-share project cloudstreetmarket-parent
+!STACK 1
+org.tigris.subversion.subclipse.core.SVNException: 提供的 SVN 信息与磁盘上“cloudstreetmarket-parent”项目的信息不相匹配。
+	at org.tigris.subversion.subclipse.core.resources.SVNWorkspaceRoot.setSharing(SVNWorkspaceRoot.java:206)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.autoconnectSVNProject(SVNTeamProviderType.java:140)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.run(SVNTeamProviderType.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.tigris.subversion.subclipse.core 4 4 2016-06-09 07:48:33.802
+!MESSAGE 提供的 SVN 信息与磁盘上“cloudstreetmarket-parent”项目的信息不相匹配。
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:50:34.475
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY org.tigris.subversion.subclipse.core 4 0 2016-06-09 07:50:39.381
+!MESSAGE Could not auto-share project cloudstreetmarket-webapp
+!STACK 1
+org.tigris.subversion.subclipse.core.SVNException: 提供的 SVN 信息与磁盘上“cloudstreetmarket-webapp”项目的信息不相匹配。
+	at org.tigris.subversion.subclipse.core.resources.SVNWorkspaceRoot.setSharing(SVNWorkspaceRoot.java:206)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.autoconnectSVNProject(SVNTeamProviderType.java:140)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.run(SVNTeamProviderType.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.tigris.subversion.subclipse.core 4 4 2016-06-09 07:50:39.381
+!MESSAGE 提供的 SVN 信息与磁盘上“cloudstreetmarket-webapp”项目的信息不相匹配。
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:50:39.421
+!MESSAGE ==============Processing cloudstreetmarket-webapp dependencies ===============
+
+!ENTRY org.tigris.subversion.subclipse.core 4 368 2016-06-09 07:50:40.531
+!MESSAGE Resource '/cloudstreetmarket-webapp/src/main/webapp/WEB-INF' does not exist.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/cloudstreetmarket-webapp/src/main/webapp/WEB-INF' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215)
+	at org.eclipse.core.internal.resources.Synchronizer.setSyncInfo(Synchronizer.java:244)
+	at org.tigris.subversion.subclipse.core.status.SynchronizerSyncInfoCache$SyncInfoSynchronizedAccessor.flushPendingCacheWrites(SynchronizerSyncInfoCache.java:250)
+	at org.tigris.subversion.subclipse.core.status.SynchronizerSyncInfoCache$1.run(SynchronizerSyncInfoCache.java:195)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2295)
+	at org.tigris.subversion.subclipse.core.status.SynchronizerSyncInfoCache.flushPendingStatuses(SynchronizerSyncInfoCache.java:193)
+	at org.tigris.subversion.subclipse.core.status.StatusCacheManager.resourceChanged(StatusCacheManager.java:365)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:149)
+	at org.eclipse.core.internal.resources.Workspace.broadcastBuildEvent(Workspace.java:364)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:139)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2016-06-09 07:50:40.531
+!MESSAGE Resource '/cloudstreetmarket-webapp/src/main/webapp/WEB-INF' does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:50:41.287
+!MESSAGE ==============Processing cloudstreetmarket-webapp dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:50:42.265
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:50:42.275
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:50:42.935
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:50:42.937
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:50:43.524
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:51:51.910
+!MESSAGE properties loading ' cloudstreetmarket-api'
+
+!ENTRY org.tigris.subversion.subclipse.core 4 0 2016-06-09 07:51:51.963
+!MESSAGE Could not auto-share project  cloudstreetmarket-api
+!STACK 1
+org.tigris.subversion.subclipse.core.SVNException: 提供的 SVN 信息与磁盘上“ cloudstreetmarket-api”项目的信息不相匹配。
+	at org.tigris.subversion.subclipse.core.resources.SVNWorkspaceRoot.setSharing(SVNWorkspaceRoot.java:206)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.autoconnectSVNProject(SVNTeamProviderType.java:140)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.run(SVNTeamProviderType.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.tigris.subversion.subclipse.core 4 4 2016-06-09 07:51:51.963
+!MESSAGE 提供的 SVN 信息与磁盘上“ cloudstreetmarket-api”项目的信息不相匹配。
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:51:52.442
+!MESSAGE ==============Processing  cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:51:52.755
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:51:52.759
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:51:52.922
+!MESSAGE properties loading ' cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:51:52.926
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:51:53.462
+!MESSAGE ==============Processing  cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:51:54.383
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:51:54.392
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:51:55.187
+!MESSAGE ==============Processing  cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:51:55.249
+!MESSAGE ==============Processing cloudstreetmarket-webapp dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:51:55.654
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:51:55.658
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:51:56.771
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:51:56.779
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:52:34.092
+!MESSAGE properties loading 'cloudstreetmarket-core'
+
+!ENTRY org.tigris.subversion.subclipse.core 4 0 2016-06-09 07:52:34.126
+!MESSAGE Could not auto-share project cloudstreetmarket-core
+!STACK 1
+org.tigris.subversion.subclipse.core.SVNException: 提供的 SVN 信息与磁盘上“cloudstreetmarket-core”项目的信息不相匹配。
+	at org.tigris.subversion.subclipse.core.resources.SVNWorkspaceRoot.setSharing(SVNWorkspaceRoot.java:206)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.autoconnectSVNProject(SVNTeamProviderType.java:140)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.run(SVNTeamProviderType.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.tigris.subversion.subclipse.core 4 4 2016-06-09 07:52:34.126
+!MESSAGE 提供的 SVN 信息与磁盘上“cloudstreetmarket-core”项目的信息不相匹配。
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:52:34.670
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:52:34.678
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:52:35.255
+!MESSAGE ==============Processing  cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:52:35.323
+!MESSAGE ==============Processing cloudstreetmarket-webapp dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:52:35.534
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:52:35.538
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:52:35.624
+!MESSAGE properties loading ' cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:52:35.626
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:52:36.712
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:52:36.717
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:52:36.780
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:52:36.786
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:53:21.751
+!MESSAGE properties loading 'zipcloud-parent'
+
+!ENTRY org.tigris.subversion.subclipse.core 4 0 2016-06-09 07:53:21.769
+!MESSAGE Could not auto-share project zipcloud-parent
+!STACK 1
+org.tigris.subversion.subclipse.core.SVNException: 提供的 SVN 信息与磁盘上“zipcloud-parent”项目的信息不相匹配。
+	at org.tigris.subversion.subclipse.core.resources.SVNWorkspaceRoot.setSharing(SVNWorkspaceRoot.java:206)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.autoconnectSVNProject(SVNTeamProviderType.java:140)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.run(SVNTeamProviderType.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.tigris.subversion.subclipse.core 4 4 2016-06-09 07:53:21.769
+!MESSAGE 提供的 SVN 信息与磁盘上“zipcloud-parent”项目的信息不相匹配。
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:55:14.411
+!MESSAGE properties loading 'zipcloud-core'
+
+!ENTRY org.tigris.subversion.subclipse.core 4 0 2016-06-09 07:55:14.453
+!MESSAGE Could not auto-share project zipcloud-core
+!STACK 1
+org.tigris.subversion.subclipse.core.SVNException: 提供的 SVN 信息与磁盘上“zipcloud-core”项目的信息不相匹配。
+	at org.tigris.subversion.subclipse.core.resources.SVNWorkspaceRoot.setSharing(SVNWorkspaceRoot.java:206)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.autoconnectSVNProject(SVNTeamProviderType.java:140)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.run(SVNTeamProviderType.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.tigris.subversion.subclipse.core 4 4 2016-06-09 07:55:14.453
+!MESSAGE 提供的 SVN 信息与磁盘上“zipcloud-core”项目的信息不相匹配。
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:55:15.096
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:55:15.100
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:55:16.457
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:55:16.460
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:56:32.772
+!MESSAGE ==============Processing  cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:56:32.956
+!MESSAGE ==============Processing cloudstreetmarket-webapp dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:57:17.246
+!MESSAGE ==============Processing  cloudstreetmarket-api dependencies ===============
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:57:20.386
+!MESSAGE properties loading ' cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:57:20.387
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:58:18.144
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:58:19.248
+!MESSAGE ==============Processing cloudstreetmarket-webapp dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:58:19.250
+!MESSAGE Before configuration Current Thread[Worker-26,5,main]
+zipcloud-core is not a IVirtualComponent
+zipcloud-core hasModuleCoreNature:false, isFlexible:false
+zipcloud-core is not a faceted project
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:58:19.448
+!MESSAGE after configuration Current Thread[Worker-26,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+  -/zipcloud-core/src/test/java/
+  -/zipcloud-core/src/test/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+        <wb-resource deploy-path="/" source-path="/src/test/java"/>
+        <wb-resource deploy-path="/" source-path="/src/test/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:58:19.476
+!MESSAGE after removing test folders Current Thread[Worker-26,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:58:21.169
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:58:21.172
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:58:21.722
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:58:21.725
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:04.429
+!MESSAGE ==============Processing  cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:04.432
+!MESSAGE Before configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:04.435
+!MESSAGE after configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:04.438
+!MESSAGE after removing test folders Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:05.884
+!MESSAGE ==============Processing cloudstreetmarket-webapp dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:05.886
+!MESSAGE Before configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:05.887
+!MESSAGE after configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:05.889
+!MESSAGE after removing test folders Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:33.491
+!MESSAGE ==============Processing  cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:33.493
+!MESSAGE Before configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:33.494
+!MESSAGE after configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:33.496
+!MESSAGE after removing test folders Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:34.400
+!MESSAGE ==============Processing cloudstreetmarket-webapp dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:34.402
+!MESSAGE Before configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:34.403
+!MESSAGE after configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:34.405
+!MESSAGE after removing test folders Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:52.636
+!MESSAGE ==============Processing  cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:52.638
+!MESSAGE Before configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:52.641
+!MESSAGE after configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:52.643
+!MESSAGE after removing test folders Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:53.769
+!MESSAGE ==============Processing cloudstreetmarket-webapp dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:53.771
+!MESSAGE Before configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:53.772
+!MESSAGE after configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 07:59:53.774
+!MESSAGE after removing test folders Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:59:56.943
+!MESSAGE properties loading ' cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 07:59:56.944
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:00:00.142
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:00:01.119
+!MESSAGE ==============Processing  cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:00:01.120
+!MESSAGE Before configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:00:01.122
+!MESSAGE after configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:00:01.123
+!MESSAGE after removing test folders Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:00:02.560
+!MESSAGE properties loading ' cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:00:02.561
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:00:03.472
+!MESSAGE ==============Processing cloudstreetmarket-webapp dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:00:03.474
+!MESSAGE Before configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:00:03.475
+!MESSAGE after configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:00:03.476
+!MESSAGE after removing test folders Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:00:06.654
+!MESSAGE properties loading ' cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:00:06.656
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:00:09.026
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:00:09.028
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:00:09.078
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:00:09.080
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:01:27.924
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:01:45.558
+!MESSAGE properties loading 'zipcloud-core'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:01:45.559
+!MESSAGE properties loading 'zipcloud-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:01:45.810
+!MESSAGE properties loading 'zipcloud-core'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:01:45.812
+!MESSAGE properties loading 'zipcloud-parent'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:03:04.275
+!MESSAGE ==============Processing  cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:03:04.277
+!MESSAGE Before configuration Current Thread[Worker-26,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:03:04.278
+!MESSAGE after configuration Current Thread[Worker-26,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:03:04.280
+!MESSAGE after removing test folders Current Thread[Worker-26,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:03:05.750
+!MESSAGE properties loading ' cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:03:05.751
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:04:03.572
+!MESSAGE ==============Processing  cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:04:03.574
+!MESSAGE Before configuration Current Thread[Worker-26,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:04:03.575
+!MESSAGE after configuration Current Thread[Worker-26,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:04:03.577
+!MESSAGE after removing test folders Current Thread[Worker-26,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:04:05.047
+!MESSAGE properties loading ' cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:04:05.049
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:04:58.002
+!MESSAGE ==============Processing  cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:04:58.003
+!MESSAGE Before configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:04:58.005
+!MESSAGE after configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:04:58.006
+!MESSAGE after removing test folders Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:04:59.293
+!MESSAGE ==============Processing cloudstreetmarket-webapp dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:04:59.297
+!MESSAGE Before configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:04:59.299
+!MESSAGE after configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:04:59.301
+!MESSAGE after removing test folders Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:05:01.266
+!MESSAGE properties loading ' cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:05:01.268
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:05:02.920
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:05:03.648
+!MESSAGE ==============Processing  cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:05:03.650
+!MESSAGE Before configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:05:03.652
+!MESSAGE after configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:05:03.653
+!MESSAGE after removing test folders Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:05:05.052
+!MESSAGE properties loading ' cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:05:05.052
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:05:05.617
+!MESSAGE ==============Processing cloudstreetmarket-webapp dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:05:05.619
+!MESSAGE Before configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:05:05.620
+!MESSAGE after configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:05:05.621
+!MESSAGE after removing test folders Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:05:08.702
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:05:08.703
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:05:09.069
+!MESSAGE properties loading ' cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:05:09.070
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:06:11.920
+!MESSAGE properties removing ' cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:06:11.921
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:06:38.000
+!MESSAGE ==============Processing cloudstreetmarket-webapp dependencies ===============
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:06:46.791
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:06:46.792
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:06:47.061
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:06:47.062
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:07:42.137
+!MESSAGE properties loading 'cloudstreetmarket-api'
+
+!ENTRY org.tigris.subversion.subclipse.core 4 0 2016-06-09 08:07:42.156
+!MESSAGE Could not auto-share project cloudstreetmarket-api
+!STACK 1
+org.tigris.subversion.subclipse.core.SVNException: 提供的 SVN 信息与磁盘上“cloudstreetmarket-api”项目的信息不相匹配。
+	at org.tigris.subversion.subclipse.core.resources.SVNWorkspaceRoot.setSharing(SVNWorkspaceRoot.java:206)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.autoconnectSVNProject(SVNTeamProviderType.java:140)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.run(SVNTeamProviderType.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.tigris.subversion.subclipse.core 4 4 2016-06-09 08:07:42.156
+!MESSAGE 提供的 SVN 信息与磁盘上“cloudstreetmarket-api”项目的信息不相匹配。
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:07:42.638
+!MESSAGE ==============Processing cloudstreetmarket-api dependencies ===============
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:07:42.876
+!MESSAGE properties loading 'cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:07:42.878
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:07:42.880
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:07:43.325
+!MESSAGE ==============Processing cloudstreetmarket-api dependencies ===============
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:07:45.021
+!MESSAGE properties loading 'cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:07:45.022
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:07:45.254
+!MESSAGE ==============Processing cloudstreetmarket-webapp dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:07:45.255
+!MESSAGE Before configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:07:45.257
+!MESSAGE after configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:07:45.258
+!MESSAGE after removing test folders Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:07:46.402
+!MESSAGE ==============Processing cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:07:48.661
+!MESSAGE ==============Processing cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:08:15.219
+!MESSAGE ==============Processing cloudstreetmarket-api dependencies ===============
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:08:17.131
+!MESSAGE properties loading 'cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:08:17.133
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-06-09 08:08:17.371
+!MESSAGE failed to load maven project for org.eclipse.ui.part.FileEditorInput(/cloudstreetmarket-api/pom.xml)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-06-09 08:08:17.525
+!MESSAGE Could not read pom.xml
+
+!ENTRY org.eclipse.jdt.core 4 1006 2016-06-09 08:08:18.288
+!MESSAGE C:\Users\OwenWilliam\.m2\repository\javax\ws\rs\jsr311-api\1.1.1\jsr311-api-1.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:08:31.707
+!MESSAGE ==============Processing cloudstreetmarket-api dependencies ===============
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:08:32.074
+!MESSAGE properties loading 'cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:08:32.075
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:08:43.511
+!MESSAGE ==============Processing cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:08:43.512
+!MESSAGE Before configuration Current Thread[Worker-22,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:08:43.513
+!MESSAGE after configuration Current Thread[Worker-22,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:08:43.515
+!MESSAGE after removing test folders Current Thread[Worker-22,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:08:44.748
+!MESSAGE properties loading 'cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:08:44.749
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:09:13.543
+!MESSAGE ==============Processing cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:09:13.545
+!MESSAGE Before configuration Current Thread[Worker-30,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:09:13.546
+!MESSAGE after configuration Current Thread[Worker-30,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:09:13.547
+!MESSAGE after removing test folders Current Thread[Worker-30,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:09:15.099
+!MESSAGE properties loading 'cloudstreetmarket-api'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:09:16.534
+!MESSAGE ==============Processing cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:09:16.536
+!MESSAGE Before configuration Current Thread[Worker-30,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:09:16.537
+!MESSAGE after configuration Current Thread[Worker-30,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:09:16.538
+!MESSAGE after removing test folders Current Thread[Worker-30,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:09:19.169
+!MESSAGE properties loading 'cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:09:19.171
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:09:35.589
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:09:35.592
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:09:53.394
+!MESSAGE properties loading 'zipcloud-core'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:09:53.395
+!MESSAGE properties loading 'zipcloud-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:10:10.465
+!MESSAGE properties loading 'zipcloud-core'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:10:10.466
+!MESSAGE properties loading 'zipcloud-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:10:10.705
+!MESSAGE properties loading 'zipcloud-core'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:10:10.706
+!MESSAGE properties loading 'zipcloud-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:10:19.056
+!MESSAGE properties loading 'cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:10:19.056
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:10:19.057
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:10:20.352
+!MESSAGE properties loading 'cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:10:20.353
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:10:20.357
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:10:39.401
+!MESSAGE properties loading 'cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:10:39.402
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:10:39.405
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:13:17.678
+!MESSAGE ==============Processing cloudstreetmarket-webapp dependencies ===============
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:13:34.640
+!MESSAGE properties loading 'cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:13:34.641
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:13:34.642
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:13:36.374
+!MESSAGE properties loading 'cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:13:36.375
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:13:36.376
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:13:59.957
+!MESSAGE properties loading 'cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:13:59.960
+!MESSAGE properties loading 'cloudstreetmarket-core'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:13:59.961
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:13:59.965
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:14:02.986
+!MESSAGE properties loading 'cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:14:02.988
+!MESSAGE properties loading 'cloudstreetmarket-core'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:14:02.989
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:14:02.993
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:16:15.240
+!MESSAGE properties loading 'Servers'
+
+!ENTRY org.tigris.subversion.subclipse.core 4 0 2016-06-09 08:16:15.365
+!MESSAGE Could not auto-share project Servers
+!STACK 1
+org.tigris.subversion.subclipse.core.SVNException: 提供的 SVN 信息与磁盘上“Servers”项目的信息不相匹配。
+	at org.tigris.subversion.subclipse.core.resources.SVNWorkspaceRoot.setSharing(SVNWorkspaceRoot.java:206)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.autoconnectSVNProject(SVNTeamProviderType.java:140)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.run(SVNTeamProviderType.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.tigris.subversion.subclipse.core 4 4 2016-06-09 08:16:15.365
+!MESSAGE 提供的 SVN 信息与磁盘上“Servers”项目的信息不相匹配。
+
+!ENTRY org.eclipse.ui 4 4 2016-06-09 08:16:42.974
+!MESSAGE Conflicting handlers for org.eclipse.ui.navigate.backwardHistory: {ActionHandler(org.eclipse.ui.internal.dialogs.PreferencePageHistory$1@8228ad6)} vs {ActionHandler(org.eclipse.ui.internal.NavigationHistoryAction@29693b1d)}
+!SESSION 2016-06-09 08:20:02.450 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data E:\workspace\masterspringmvc.com -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:20:38.994
+!MESSAGE ==============Processing cloudstreetmarket-api dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:20:39.155
+!MESSAGE Before configuration Current Thread[Worker-2,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:20:39.171
+!MESSAGE after configuration Current Thread[Worker-2,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:20:39.179
+!MESSAGE after removing test folders Current Thread[Worker-2,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:20:39.718
+!MESSAGE properties loading 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:20:39.721
+!MESSAGE properties loading 'Servers'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:20:39.723
+!MESSAGE properties loading 'cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:20:39.726
+!MESSAGE properties loading 'cloudstreetmarket-core'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:20:39.727
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:20:39.734
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:20:39.737
+!MESSAGE properties loading 'zipcloud-core'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:20:39.738
+!MESSAGE properties loading 'zipcloud-parent'
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-06-09 08:20:41.182
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\OwenWilliam'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:20:44.451
+!MESSAGE ==============Processing cloudstreetmarket-webapp dependencies ===============
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:20:44.453
+!MESSAGE Before configuration Current Thread[Worker-2,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:20:44.455
+!MESSAGE after configuration Current Thread[Worker-2,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 08:20:44.458
+!MESSAGE after removing test folders Current Thread[Worker-2,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:20:53.080
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:20:53.084
+!MESSAGE properties loading 'cloudstreetmarket-webapp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:20:54.763
+!MESSAGE properties loading 'cloudstreetmarket-api'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-06-09 08:20:54.765
+!MESSAGE properties loading 'cloudstreetmarket-parent'
+
+!ENTRY org.eclipse.egit.ui 4 0 2016-06-09 08:37:06.546
+!MESSAGE Clipboard content is neither a directory path nor a valid git URI

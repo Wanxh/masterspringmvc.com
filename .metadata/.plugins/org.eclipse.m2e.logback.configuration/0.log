@@ -1,0 +1,1700 @@
+2016-06-09 07:48:33,419 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-parent:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\pom.xml.
+2016-06-09 07:48:34,822 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-parent:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\pom.xml.
+2016-06-09 07:50:35,039 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\pom.xml.
+2016-06-09 07:50:37,119 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-webapp/src/main/java
+2016-06-09 07:50:37,121 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloudstreetmarket-webapp/src/main/resources
+2016-06-09 07:50:37,122 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-webapp/src/test/java
+2016-06-09 07:50:37,123 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloudstreetmarket-webapp/src/test/resources
+2016-06-09 07:50:37,954 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\pom.xml.
+2016-06-09 07:50:39,419 [Worker-16] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-webapp dependencies ===============
+2016-06-09 07:50:40,837 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-parent:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\pom.xml.
+2016-06-09 07:50:41,273 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\pom.xml.
+2016-06-09 07:50:41,286 [Worker-14] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-webapp dependencies ===============
+2016-06-09 07:50:42,264 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:50:42,270 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:50:42,274 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:50:42,276 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:51:50,832 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\pom.xml.
+2016-06-09 07:51:50,941 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder / cloudstreetmarket-api/src/main/java
+2016-06-09 07:51:50,941 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder / cloudstreetmarket-api/src/main/resources
+2016-06-09 07:51:50,942 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder / cloudstreetmarket-api/src/test/java
+2016-06-09 07:51:50,943 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder / cloudstreetmarket-api/src/test/resources
+2016-06-09 07:51:52,429 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\pom.xml.
+2016-06-09 07:51:52,442 [Worker-4] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing  cloudstreetmarket-api dependencies ===============
+2016-06-09 07:51:52,754 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:51:52,756 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:51:52,758 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:51:52,760 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:51:53,373 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\pom.xml.
+2016-06-09 07:51:53,461 [Worker-16] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing  cloudstreetmarket-api dependencies ===============
+2016-06-09 07:51:54,383 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:51:54,389 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:51:54,391 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:51:54,393 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:51:54,498 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-parent:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\pom.xml.
+2016-06-09 07:51:54,913 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\pom.xml.
+2016-06-09 07:51:55,174 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\pom.xml.
+2016-06-09 07:51:55,186 [Worker-20] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing  cloudstreetmarket-api dependencies ===============
+2016-06-09 07:51:55,248 [Worker-20] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-webapp dependencies ===============
+2016-06-09 07:51:55,653 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:51:55,655 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:51:55,657 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:51:55,658 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:51:56,770 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:51:56,771 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:51:56,778 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:51:56,780 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:52:33,712 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-core\pom.xml.
+2016-06-09 07:52:33,794 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-core/src/main/java
+2016-06-09 07:52:33,794 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloudstreetmarket-core/src/main/resources
+2016-06-09 07:52:33,795 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-core/src/test/java
+2016-06-09 07:52:33,796 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloudstreetmarket-core/src/test/resources
+2016-06-09 07:52:34,530 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-core\pom.xml.
+2016-06-09 07:52:34,669 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:52:34,671 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:52:34,677 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:52:34,680 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:52:34,774 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-parent:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\pom.xml.
+2016-06-09 07:52:34,922 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\pom.xml.
+2016-06-09 07:52:35,059 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\pom.xml.
+2016-06-09 07:52:35,238 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-core\pom.xml.
+2016-06-09 07:52:35,255 [Worker-14] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing  cloudstreetmarket-api dependencies ===============
+2016-06-09 07:52:35,322 [Worker-14] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-webapp dependencies ===============
+2016-06-09 07:52:35,533 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:52:35,535 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:52:35,537 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:52:35,538 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:52:36,317 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-core\pom.xml.
+2016-06-09 07:52:36,711 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:52:36,713 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:52:36,717 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:52:36,718 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:52:36,778 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:52:36,781 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:52:36,785 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:52:36,787 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:53:21,644 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-parent:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\zipcloud-parent\pom.xml.
+2016-06-09 07:53:22,821 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-parent:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\zipcloud-parent\pom.xml.
+2016-06-09 07:55:14,069 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\zipcloud-parent\zipcloud-core\pom.xml.
+2016-06-09 07:55:14,146 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zipcloud-core/src/main/java
+2016-06-09 07:55:14,146 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zipcloud-core/src/main/resources
+2016-06-09 07:55:14,147 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zipcloud-core/src/test/java
+2016-06-09 07:55:14,147 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zipcloud-core/src/test/resources
+2016-06-09 07:55:14,902 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\zipcloud-parent\zipcloud-core\pom.xml.
+2016-06-09 07:55:15,096 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:55:15,097 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:55:15,099 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:55:15,100 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:55:15,143 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-parent:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\zipcloud-parent\pom.xml.
+2016-06-09 07:55:15,263 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\zipcloud-parent\zipcloud-core\pom.xml.
+2016-06-09 07:55:15,584 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\zipcloud-parent\zipcloud-core\pom.xml.
+2016-06-09 07:55:16,457 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:55:16,458 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:55:16,460 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:55:16,461 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:56:30,644 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-parent:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\pom.xml.
+2016-06-09 07:56:32,483 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\pom.xml.
+2016-06-09 07:56:32,615 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\pom.xml.
+2016-06-09 07:56:32,745 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-core\pom.xml.
+2016-06-09 07:56:32,771 [Worker-20] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing  cloudstreetmarket-api dependencies ===============
+2016-06-09 07:56:32,955 [Worker-20] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-webapp dependencies ===============
+2016-06-09 07:56:33,192 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:56:33,193 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:56:33,194 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:56:33,195 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:56:34,394 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:56:34,395 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:56:34,423 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:56:34,423 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:56:34,480 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:56:34,481 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:56:34,482 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:56:34,483 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:57:16,684 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\pom.xml.
+2016-06-09 07:57:17,245 [Worker-21] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing  cloudstreetmarket-api dependencies ===============
+2016-06-09 07:57:20,035 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:57:20,036 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:57:20,038 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:57:20,039 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:57:20,041 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of  cloudstreetmarket-api
+2016-06-09 07:57:20,044 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for  cloudstreetmarket-api
+2016-06-09 07:57:20,059 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:57:20,060 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\src\main\webapp\WEB-INF
+2016-06-09 07:57:46,342 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-core\pom.xml.
+2016-06-09 07:57:46,948 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:57:46,949 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:57:46,952 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:57:46,953 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:58:18,491 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\pom.xml.
+2016-06-09 07:58:19,247 [Worker-26] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-webapp dependencies ===============
+2016-06-09 07:58:19,249 [Worker-26] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-26,5,main]
+zipcloud-core is not a IVirtualComponent
+zipcloud-core hasModuleCoreNature:false, isFlexible:false
+zipcloud-core is not a faceted project
+
+2016-06-09 07:58:19,447 [Worker-26] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-26,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+  -/zipcloud-core/src/test/java/
+  -/zipcloud-core/src/test/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+        <wb-resource deploy-path="/" source-path="/src/test/java"/>
+        <wb-resource deploy-path="/" source-path="/src/test/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:58:19,475 [Worker-26] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-26,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:58:20,951 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:58:20,951 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:58:20,953 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:58:20,954 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:58:20,955 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of cloudstreetmarket-webapp
+2016-06-09 07:58:20,955 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for cloudstreetmarket-webapp
+2016-06-09 07:58:20,961 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:58:20,961 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\src\main\webapp\WEB-INF
+2016-06-09 07:58:21,671 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\zipcloud-parent\zipcloud-core\pom.xml.
+2016-06-09 07:58:21,722 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:58:21,723 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:58:21,725 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-09 07:58:21,726 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:59:02,114 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-parent:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\zipcloud-parent\pom.xml.
+2016-06-09 07:59:02,966 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\zipcloud-parent\zipcloud-core\pom.xml.
+2016-06-09 07:59:03,437 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\pom.xml.
+2016-06-09 07:59:03,977 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\pom.xml.
+2016-06-09 07:59:04,428 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing  cloudstreetmarket-api dependencies ===============
+2016-06-09 07:59:04,431 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:59:04,434 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:59:04,437 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:59:05,884 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-webapp dependencies ===============
+2016-06-09 07:59:05,885 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:59:05,887 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:59:05,888 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:59:09,906 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:59:09,906 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:59:09,909 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:59:09,910 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:59:10,766 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:59:10,767 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:59:10,769 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:59:10,769 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:59:11,944 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:59:11,944 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:59:11,953 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:59:11,954 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:59:31,845 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\zipcloud-parent\zipcloud-core\pom.xml.
+2016-06-09 07:59:32,625 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\pom.xml.
+2016-06-09 07:59:33,114 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\pom.xml.
+2016-06-09 07:59:33,491 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing  cloudstreetmarket-api dependencies ===============
+2016-06-09 07:59:33,492 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:59:33,494 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:59:33,495 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:59:34,399 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-webapp dependencies ===============
+2016-06-09 07:59:34,401 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:59:34,403 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:59:34,404 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:59:35,702 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:59:35,702 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:59:35,703 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:59:35,704 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:59:36,518 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:59:36,518 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:59:36,519 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:59:36,520 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:59:37,743 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:59:37,744 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:59:37,746 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 07:59:37,746 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 07:59:49,930 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-06-09 07:59:50,108 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-parent:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\pom.xml.
+2016-06-09 07:59:50,228 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\pom.xml.
+2016-06-09 07:59:51,022 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-core\pom.xml.
+2016-06-09 07:59:51,302 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\pom.xml.
+2016-06-09 07:59:51,730 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-parent:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\zipcloud-parent\pom.xml.
+2016-06-09 07:59:52,280 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\zipcloud-parent\zipcloud-core\pom.xml.
+2016-06-09 07:59:52,636 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing  cloudstreetmarket-api dependencies ===============
+2016-06-09 07:59:52,638 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:59:52,639 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:59:52,643 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:59:53,768 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-webapp dependencies ===============
+2016-06-09 07:59:53,770 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:59:53,772 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:59:53,774 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.5 facet
+  - has Utility Module facet
+
+2016-06-09 07:59:55,562 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder / cloudstreetmarket-api/src/main/java
+2016-06-09 07:59:55,562 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder / cloudstreetmarket-api/src/main/resources
+2016-06-09 07:59:55,578 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder / cloudstreetmarket-api/src/test/java
+2016-06-09 07:59:55,579 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder / cloudstreetmarket-api/src/test/resources
+2016-06-09 07:59:57,892 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-core/src/main/java
+2016-06-09 07:59:57,893 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloudstreetmarket-core/src/main/resources
+2016-06-09 07:59:57,907 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-core/src/test/java
+2016-06-09 07:59:57,907 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloudstreetmarket-core/src/test/resources
+2016-06-09 07:59:58,169 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-webapp/src/main/java
+2016-06-09 07:59:58,169 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloudstreetmarket-webapp/src/main/resources
+2016-06-09 07:59:58,185 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-webapp/src/test/java
+2016-06-09 07:59:58,185 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloudstreetmarket-webapp/src/test/resources
+2016-06-09 07:59:59,170 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zipcloud-core/src/main/java
+2016-06-09 07:59:59,170 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zipcloud-core/src/main/resources
+2016-06-09 07:59:59,186 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zipcloud-core/src/test/java
+2016-06-09 07:59:59,187 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zipcloud-core/src/test/resources
+2016-06-09 08:00:00,659 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\pom.xml.
+2016-06-09 08:00:01,118 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing  cloudstreetmarket-api dependencies ===============
+2016-06-09 08:00:01,120 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:00:01,121 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:00:01,123 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:00:02,530 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for  cloudstreetmarket-api
+2016-06-09 08:00:02,707 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-core\pom.xml.
+2016-06-09 08:00:03,098 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\pom.xml.
+2016-06-09 08:00:03,472 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-webapp dependencies ===============
+2016-06-09 08:00:03,473 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:00:03,474 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:00:03,476 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-25,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:00:04,890 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for cloudstreetmarket-webapp
+2016-06-09 08:00:05,061 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\zipcloud-parent\zipcloud-core\pom.xml.
+2016-06-09 08:00:05,678 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 15 sec
+2016-06-09 08:00:06,603 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:00:06,603 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:00:06,605 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:00:06,605 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:00:06,606 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for  cloudstreetmarket-api
+2016-06-09 08:00:06,614 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:00:06,614 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\src\main\webapp\WEB-INF
+2016-06-09 08:00:06,988 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:00:06,988 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:00:06,989 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:00:06,990 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:00:07,661 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:00:07,661 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:00:07,662 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:00:07,663 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:00:08,349 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:00:08,350 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:00:08,351 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:00:08,352 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:00:08,353 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for cloudstreetmarket-webapp
+2016-06-09 08:00:08,361 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:00:08,361 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\src\main\webapp\WEB-INF
+2016-06-09 08:00:09,057 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:00:09,058 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:00:09,059 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:00:09,060 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:00:09,061 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for cloudstreetmarket-webapp
+2016-06-09 08:00:09,065 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:00:09,065 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\src\main\webapp\WEB-INF
+2016-06-09 08:00:09,116 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:00:09,116 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:00:09,118 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:00:09,118 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:01:24,301 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\masterspringmvc.com\zipcloud-parent
+2016-06-09 08:01:24,302 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e clean
+2016-06-09 08:01:27,649 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:01:27,650 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:01:27,651 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:01:27,652 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:01:35,176 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\masterspringmvc.com\zipcloud-parent
+2016-06-09 08:01:35,176 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e install
+2016-06-09 08:01:45,984 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:01:45,984 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:01:45,986 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:01:45,986 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:02:00,302 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\masterspringmvc.com\cloudstreetmarket-parent
+2016-06-09 08:02:00,303 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e clean
+2016-06-09 08:03:03,164 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\pom.xml.
+2016-06-09 08:03:04,274 [Worker-26] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing  cloudstreetmarket-api dependencies ===============
+2016-06-09 08:03:04,276 [Worker-26] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-26,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:03:04,278 [Worker-26] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-26,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:03:04,279 [Worker-26] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-26,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:03:05,728 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:03:05,730 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:03:05,732 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:03:05,732 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:03:05,732 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of  cloudstreetmarket-api
+2016-06-09 08:03:05,732 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for  cloudstreetmarket-api
+2016-06-09 08:03:05,737 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:03:05,737 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\src\main\webapp\WEB-INF
+2016-06-09 08:03:07,965 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\masterspringmvc.com\cloudstreetmarket-parent
+2016-06-09 08:03:07,966 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e clean
+2016-06-09 08:04:01,624 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\pom.xml.
+2016-06-09 08:04:03,571 [Worker-26] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing  cloudstreetmarket-api dependencies ===============
+2016-06-09 08:04:03,573 [Worker-26] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-26,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:04:03,574 [Worker-26] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-26,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:04:03,576 [Worker-26] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-26,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:04:05,028 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:04:05,029 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:04:05,030 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:04:05,030 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:04:05,030 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of  cloudstreetmarket-api
+2016-06-09 08:04:05,031 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for  cloudstreetmarket-api
+2016-06-09 08:04:05,035 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:04:05,035 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\src\main\webapp\WEB-INF
+2016-06-09 08:04:08,250 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\masterspringmvc.com\cloudstreetmarket-parent
+2016-06-09 08:04:08,250 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e clean
+2016-06-09 08:04:56,279 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-06-09 08:04:56,433 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-parent:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\pom.xml.
+2016-06-09 08:04:56,554 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\pom.xml.
+2016-06-09 08:04:57,386 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-core\pom.xml.
+2016-06-09 08:04:57,641 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\pom.xml.
+2016-06-09 08:04:58,001 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing  cloudstreetmarket-api dependencies ===============
+2016-06-09 08:04:58,003 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:04:58,004 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:04:58,006 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:04:59,293 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-webapp dependencies ===============
+2016-06-09 08:04:59,296 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:04:59,298 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:04:59,300 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:05:00,804 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder / cloudstreetmarket-api/src/main/java
+2016-06-09 08:05:00,804 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder / cloudstreetmarket-api/src/main/resources
+2016-06-09 08:05:00,805 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder / cloudstreetmarket-api/src/test/java
+2016-06-09 08:05:00,812 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder / cloudstreetmarket-api/src/test/resources
+2016-06-09 08:05:01,865 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-core/src/main/java
+2016-06-09 08:05:01,866 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloudstreetmarket-core/src/main/resources
+2016-06-09 08:05:01,866 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-core/src/test/java
+2016-06-09 08:05:01,866 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloudstreetmarket-core/src/test/resources
+2016-06-09 08:05:02,100 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-webapp/src/main/java
+2016-06-09 08:05:02,100 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloudstreetmarket-webapp/src/main/resources
+2016-06-09 08:05:02,101 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-webapp/src/test/java
+2016-06-09 08:05:02,101 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloudstreetmarket-webapp/src/test/resources
+2016-06-09 08:05:03,246 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\pom.xml.
+2016-06-09 08:05:03,647 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing  cloudstreetmarket-api dependencies ===============
+2016-06-09 08:05:03,650 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:05:03,651 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:05:03,653 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:05:05,025 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for  cloudstreetmarket-api
+2016-06-09 08:05:05,220 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\pom.xml.
+2016-06-09 08:05:05,616 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-webapp dependencies ===============
+2016-06-09 08:05:05,618 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:05:05,620 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:05:05,621 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:05:06,943 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for cloudstreetmarket-webapp
+2016-06-09 08:05:06,963 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 10 sec
+2016-06-09 08:05:07,483 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:05:07,483 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:05:07,485 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:05:07,485 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:05:08,260 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:05:08,260 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:05:08,261 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:05:08,261 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:05:08,262 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for cloudstreetmarket-webapp
+2016-06-09 08:05:08,269 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:05:08,269 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\src\main\webapp\WEB-INF
+2016-06-09 08:05:09,031 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:05:09,032 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:05:09,033 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:05:09,034 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:05:09,034 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for  cloudstreetmarket-api
+2016-06-09 08:05:09,041 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:05:09,041 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\ cloudstreetmarket-api\src\main\webapp\WEB-INF
+2016-06-09 08:05:29,028 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\masterspringmvc.com\cloudstreetmarket-parent
+2016-06-09 08:05:29,029 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e clean
+2016-06-09 08:06:21,299 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\masterspringmvc.com\cloudstreetmarket-parent
+2016-06-09 08:06:21,299 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e clean
+2016-06-09 08:06:36,710 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-parent:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\pom.xml.
+2016-06-09 08:06:36,847 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-core\pom.xml.
+2016-06-09 08:06:37,334 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\pom.xml.
+2016-06-09 08:06:38,000 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-webapp dependencies ===============
+2016-06-09 08:06:40,455 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:06:40,455 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:06:40,457 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:06:40,457 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:06:41,200 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:06:41,200 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:06:41,202 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:06:41,202 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:06:43,970 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\masterspringmvc.com\cloudstreetmarket-parent
+2016-06-09 08:06:43,971 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e clean
+2016-06-09 08:06:47,002 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:06:47,003 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:06:47,004 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:06:47,005 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:06:47,029 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:06:47,029 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:06:47,030 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:06:47,031 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:07:41,180 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-api\pom.xml.
+2016-06-09 08:07:41,295 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-api/src/main/java
+2016-06-09 08:07:41,295 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloudstreetmarket-api/src/main/resources
+2016-06-09 08:07:41,309 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-api/src/test/java
+2016-06-09 08:07:41,310 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloudstreetmarket-api/src/test/resources
+2016-06-09 08:07:42,617 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-api\pom.xml.
+2016-06-09 08:07:42,638 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-api dependencies ===============
+2016-06-09 08:07:42,755 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:07:42,756 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:07:42,757 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:07:42,758 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:07:43,306 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-api\pom.xml.
+2016-06-09 08:07:43,324 [Worker-22] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-api dependencies ===============
+2016-06-09 08:07:43,395 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:07:43,395 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:07:43,397 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:07:43,398 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:07:43,627 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-parent:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\pom.xml.
+2016-06-09 08:07:43,842 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\pom.xml.
+2016-06-09 08:07:44,917 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-core\pom.xml.
+2016-06-09 08:07:45,237 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-api\pom.xml.
+2016-06-09 08:07:45,253 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-webapp dependencies ===============
+2016-06-09 08:07:45,255 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:07:45,256 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:07:45,258 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-28,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:07:46,401 [Worker-28] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-api dependencies ===============
+2016-06-09 08:07:47,125 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:07:47,125 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:07:47,127 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:07:47,128 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:07:47,545 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-api\pom.xml.
+2016-06-09 08:07:47,842 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:07:47,842 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:07:47,844 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:07:47,845 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:07:48,602 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:07:48,602 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:07:48,603 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:07:48,603 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:07:48,660 [Worker-21] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-api dependencies ===============
+2016-06-09 08:07:48,858 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:07:48,858 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:07:48,859 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:07:48,859 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:08:14,407 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-api\pom.xml.
+2016-06-09 08:08:15,218 [Worker-25] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-api dependencies ===============
+2016-06-09 08:08:16,868 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:08:16,869 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:08:16,870 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:08:16,870 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:08:16,871 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of cloudstreetmarket-api
+2016-06-09 08:08:16,871 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for cloudstreetmarket-api
+2016-06-09 08:08:16,875 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:08:16,876 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-api\src\main\webapp\WEB-INF
+2016-06-09 08:08:17,370 [Worker-21] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/cloudstreetmarket-api/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:768) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:956) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4724) ~[na:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3522) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2315) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2278) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2193) ~[na:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3932) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4721) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:954) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) ~[org.eclipse.m2e.core.ui_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:753) ~[na:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$6.run(MavenPomEditor.java:1073) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.1.v20141014-1248.jar:na]
+2016-06-09 08:08:17,525 [Worker-26] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:567) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:511) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:466) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:289) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.1.v20141014-1248.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </project> must match start tag name <dependencies> from line 34 (position: TEXT seen ...</dependency>\r\n\r\n  \r\n</project>... @109:11) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:556) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </project> must match start tag name <dependencies> from line 34 (position: TEXT seen ...</dependency>\r\n\r\n  \r\n</project>... @109:11) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:1724) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1169) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1118) ~[plexus-utils-3.0.17.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2193) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	... 26 common frames omitted
+2016-06-09 08:08:31,690 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-api\pom.xml.
+2016-06-09 08:08:31,706 [Worker-29] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-api dependencies ===============
+2016-06-09 08:08:32,049 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:08:32,049 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:08:32,050 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:08:32,050 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:08:32,051 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of cloudstreetmarket-api
+2016-06-09 08:08:32,051 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for cloudstreetmarket-api
+2016-06-09 08:08:32,055 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:08:42,412 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-api\pom.xml.
+2016-06-09 08:08:43,510 [Worker-22] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-api dependencies ===============
+2016-06-09 08:08:43,512 [Worker-22] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-22,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:08:43,513 [Worker-22] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-22,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:08:43,514 [Worker-22] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-22,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:08:44,519 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:08:44,519 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:08:44,520 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:08:44,520 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:08:44,521 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of cloudstreetmarket-api
+2016-06-09 08:08:44,521 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for cloudstreetmarket-api
+2016-06-09 08:08:44,525 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:08:44,525 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-api\src\main\webapp\WEB-INF
+2016-06-09 08:09:12,709 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-06-09 08:09:12,860 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-api\pom.xml.
+2016-06-09 08:09:13,543 [Worker-30] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-api dependencies ===============
+2016-06-09 08:09:13,544 [Worker-30] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-30,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:09:13,545 [Worker-30] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-30,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:09:13,547 [Worker-30] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-30,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:09:14,847 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-api/src/main/java
+2016-06-09 08:09:14,848 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloudstreetmarket-api/src/main/resources
+2016-06-09 08:09:14,848 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-api/src/test/java
+2016-06-09 08:09:14,848 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloudstreetmarket-api/src/test/resources
+2016-06-09 08:09:16,116 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-api\pom.xml.
+2016-06-09 08:09:16,534 [Worker-30] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-api dependencies ===============
+2016-06-09 08:09:16,535 [Worker-30] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-30,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:09:16,536 [Worker-30] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-30,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:09:16,538 [Worker-30] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-30,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:09:17,977 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for cloudstreetmarket-api
+2016-06-09 08:09:17,998 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2016-06-09 08:09:19,116 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:09:19,117 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:09:19,118 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:09:19,119 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:09:19,119 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for cloudstreetmarket-api
+2016-06-09 08:09:19,125 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:09:19,125 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-api\src\main\webapp\WEB-INF
+2016-06-09 08:09:30,649 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\masterspringmvc.com\cloudstreetmarket-parent
+2016-06-09 08:09:30,649 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e clean
+2016-06-09 08:09:35,578 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:09:35,578 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:09:35,579 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:09:35,580 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:09:50,706 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\masterspringmvc.com\zipcloud-parent
+2016-06-09 08:09:50,706 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e clean
+2016-06-09 08:09:53,586 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:09:53,587 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:09:53,588 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:09:53,588 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:10:00,552 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\masterspringmvc.com\zipcloud-parent
+2016-06-09 08:10:00,553 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e install
+2016-06-09 08:10:10,897 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:10:10,898 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:10:10,899 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:10:10,899 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:10:16,217 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\masterspringmvc.com\cloudstreetmarket-parent
+2016-06-09 08:10:16,218 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e clean
+2016-06-09 08:10:19,601 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:10:19,601 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:10:19,602 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:10:19,603 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:10:19,624 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:10:19,625 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:10:19,626 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:10:19,627 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:10:20,315 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:10:20,316 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:10:20,317 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:10:20,317 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:10:26,771 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\masterspringmvc.com\cloudstreetmarket-parent
+2016-06-09 08:10:26,771 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e install
+2016-06-09 08:10:39,395 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:10:39,396 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:10:39,397 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:10:39,397 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:11:21,156 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:11:21,157 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:11:21,158 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:11:21,159 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:11:21,159 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for cloudstreetmarket-webapp
+2016-06-09 08:11:21,165 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:11:21,170 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to WEB-INF
+2016-06-09 08:11:59,688 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:11:59,688 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:11:59,690 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:11:59,690 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:11:59,693 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for cloudstreetmarket-api
+2016-06-09 08:11:59,700 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:11:59,701 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources to WEB-INF
+2016-06-09 08:12:20,327 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:12:20,327 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:12:20,329 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:12:20,329 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:13:08,791 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:13:08,792 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:13:08,793 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:13:08,794 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:13:16,538 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\pom.xml.
+2016-06-09 08:13:17,678 [Worker-22] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-webapp dependencies ===============
+2016-06-09 08:13:19,358 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:13:19,359 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:13:19,360 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:13:19,360 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:13:19,360 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for cloudstreetmarket-webapp
+2016-06-09 08:13:19,367 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:13:19,368 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to WEB-INF
+2016-06-09 08:13:31,534 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\masterspringmvc.com\cloudstreetmarket-parent
+2016-06-09 08:13:31,535 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e clean
+2016-06-09 08:13:34,877 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:13:34,878 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:13:34,879 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:13:34,880 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:13:35,613 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:13:35,613 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:13:35,614 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:13:35,615 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:13:36,342 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:13:36,343 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:13:36,344 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:13:36,344 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:13:42,668 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\masterspringmvc.com\cloudstreetmarket-parent
+2016-06-09 08:13:42,669 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e install
+2016-06-09 08:14:02,751 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:14:02,751 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:14:02,753 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:14:02,753 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:14:02,790 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:14:02,790 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:14:02,792 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:14:02,792 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:14:02,921 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:14:02,922 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:14:02,923 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:14:02,924 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:20:32,615 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-api\pom.xml.
+2016-06-09 08:20:35,329 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-core\pom.xml.
+2016-06-09 08:20:35,884 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-parent:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\pom.xml.
+2016-06-09 08:20:36,608 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\cloudstreetmarket-parent\cloudstreetmarket-webapp\pom.xml.
+2016-06-09 08:20:37,703 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-core:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\zipcloud-parent\zipcloud-core\pom.xml.
+2016-06-09 08:20:38,235 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-parent:0.0.1-SNAPSHOT @ E:\workspace\masterspringmvc.com\zipcloud-parent\pom.xml.
+2016-06-09 08:20:38,991 [Worker-2] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-api dependencies ===============
+2016-06-09 08:20:39,153 [Worker-2] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-2,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:20:39,170 [Worker-2] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-2,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:20:39,178 [Worker-2] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-2,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:20:44,450 [Worker-2] WARN  o.e.m.w.i.utilities.DebugUtilities - ==============Processing cloudstreetmarket-webapp dependencies ===============
+2016-06-09 08:20:44,452 [Worker-2] WARN  o.e.m.w.i.utilities.DebugUtilities - Before configuration Current Thread[Worker-2,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:20:44,455 [Worker-2] WARN  o.e.m.w.i.utilities.DebugUtilities - after configuration Current Thread[Worker-2,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:20:44,457 [Worker-2] WARN  o.e.m.w.i.utilities.DebugUtilities - after removing test folders Current Thread[Worker-2,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+2016-06-09 08:20:50,666 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:20:50,725 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:20:50,730 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:20:50,731 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:20:51,789 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:20:51,790 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:20:51,792 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:20:51,794 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:20:52,896 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:20:52,896 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:20:52,898 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:20:52,899 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:20:54,547 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:20:54,556 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:20:54,558 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:20:54,559 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:21:44,621 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:21:44,627 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:21:44,631 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:21:44,632 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:21:44,743 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:21:44,744 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:21:44,750 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:21:44,753 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:21:44,815 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:21:44,816 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:21:44,818 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:21:44,818 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:21:44,877 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:21:44,879 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-09 08:21:44,891 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 08:21:44,891 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
